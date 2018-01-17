@@ -6,3 +6,6 @@ Major: Finance
 Year: Junior
 Hometown: Commerce, MI
 Programming Backgroud: I programmed robots since I was in 5th grade. Currently a data scientist at a start-up in Lansing. CMSE minor.
+
+Marco Macias - maciasse@msu.edu
+
